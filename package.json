@@ -1,6 +1,6 @@
 {
   "name": "@joaovcoliveira/tsconfig",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TSconfig",
   "main": "index.js",
   "scripts": {
