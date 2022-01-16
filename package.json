@@ -1,0 +1,19 @@
+{
+  "name": "@joaovcoliveira/tsconfig",
+  "version": "1.0.0",
+  "description": "TSconfig",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaovcoliveira/tsconfig.git"
+  },
+  "author": "João Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaovcoliveira/tsconfig/issues"
+  },
+  "homepage": "https://github.com/joaovcoliveira/tsconfig#readme"
+}
