@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/joaovcoliveira/tsconfig/issues"
   },
-  "homepage": "https://github.com/joaovcoliveira/tsconfig#readme"
+  "homepage": "https://github.com/joaovcoliveira/tsconfig#readme",
+  "publishConfig": {
+    "@joaovcoliveira:registry": "https://npm.pkg.github.com"
+  }
 }
