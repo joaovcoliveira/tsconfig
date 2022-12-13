@@ -2,7 +2,7 @@
 
 [![GitHub version](https://badge.fury.io/gh/joaovcoliveira%2Ftsconfig.svg)](https://badge.fury.io/gh/joaovcoliveira%2Ftsconfig)
 
-Intera's Shared [TypeScript config](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html)
+Shared [TypeScript config](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html)
 
 ## Install
 
@@ -23,8 +23,3 @@ $ npm install --save-dev @joaovcoliveira/tsconfig
 	}
 }
 ```
-
-
-## License
-
-MIT
